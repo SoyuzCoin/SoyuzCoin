@@ -1,0 +1,1 @@
+qt/qt_libbitcoinqt_a-qrc_soyuz3_locale.o: qt/qrc_soyuz3_locale.cpp

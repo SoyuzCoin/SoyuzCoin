@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Soyuz3
+Comment=Soyuz3 P2P Cryptocurrency
+Comment[fr]=Soyuz3, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Soyuz3, eşten eşe kriptografik sanal para birimi
+Exec=soyuz3-qt %u
+Terminal=false
+Type=Application
+Icon=soyuz3128
+MimeType=x-scheme-handler/soyuz3;
+Categories=Office;Finance;

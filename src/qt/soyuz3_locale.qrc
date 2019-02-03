@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/soyuz3_bg.qm</file>
+        <file alias="ca">locale/soyuz3_ca.qm</file>
+        <file alias="cs">locale/soyuz3_cs.qm</file>
+        <file alias="da">locale/soyuz3_da.qm</file>
+        <file alias="de">locale/soyuz3_de.qm</file>
+        <file alias="en">locale/soyuz3_en.qm</file>
+        <file alias="en_US">locale/soyuz3_en_US.qm</file>
+        <file alias="eo">locale/soyuz3_eo.qm</file>
+        <file alias="es">locale/soyuz3_es.qm</file>
+        <file alias="es_ES">locale/soyuz3_es_ES.qm</file>
+        <file alias="fi">locale/soyuz3_fi.qm</file>
+        <file alias="fr_FR">locale/soyuz3_fr_FR.qm</file>
+        <file alias="hi_IN">locale/soyuz3_hi_IN.qm</file>
+        <file alias="hr">locale/soyuz3_hr.qm</file>
+        <file alias="hr_HR">locale/soyuz3_hr_HR.qm</file>
+        <file alias="it">locale/soyuz3_it.qm</file>
+        <file alias="ja">locale/soyuz3_ja.qm</file>
+        <file alias="ko_KR">locale/soyuz3_ko_KR.qm</file>
+        <file alias="lt_LT">locale/soyuz3_lt_LT.qm</file>
+        <file alias="nl">locale/soyuz3_nl.qm</file>
+        <file alias="pl">locale/soyuz3_pl.qm</file>
+        <file alias="pt">locale/soyuz3_pt.qm</file>
+        <file alias="pt_BR">locale/soyuz3_pt_BR.qm</file>
+        <file alias="ro_RO">locale/soyuz3_ro_RO.qm</file>
+        <file alias="ru">locale/soyuz3_ru.qm</file>
+        <file alias="sk">locale/soyuz3_sk.qm</file>
+        <file alias="sv">locale/soyuz3_sv.qm</file>
+        <file alias="tr">locale/soyuz3_tr.qm</file>
+        <file alias="uk">locale/soyuz3_uk.qm</file>
+        <file alias="vi">locale/soyuz3_vi.qm</file>
+        <file alias="zh_CN">locale/soyuz3_zh_CN.qm</file>
+        <file alias="zh_TW">locale/soyuz3_zh_TW.qm</file>
+    </qresource>
+</RCC>

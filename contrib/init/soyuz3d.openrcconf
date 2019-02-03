@@ -1,0 +1,26 @@
+# /etc/conf.d/soyuz3d: config file for /etc/init.d/soyuz3d
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/soyuz3/soyuz3.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/soyuz3d"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/soyuz3d.pid"
+
+# Where to write soyuz3d data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/soyuz3d"
+
+# User and group to own soyuz3d process
+#BITCOIND_USER="soyuz3"
+#BITCOIND_GROUP="soyuz3"
+
+# Path to soyuz3d executable
+#BITCOIND_BIN="/usr/bin/soyuz3d"
+
+# Nice value to run soyuz3d under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
